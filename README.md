@@ -1,3 +1,4 @@
+
 # CPP Foundation
 
 ![C++](https://img.shields.io/badge/language-C%2B%2B-blue.svg)
@@ -78,15 +79,15 @@ g++ first.cpp -o first_program
 
 After compilation, run the generated binary:
 
-```bash
+bash
 ./first_program
-```
+
 
 ### Expected Output
-```text
+text
 Hello World
 The sum is: 15
-```
+The difference is: 5
 
 ## 🔧 Development
 
